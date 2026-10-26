@@ -1,0 +1,6 @@
+# Data is downloaded separately (see README)
+*.csv
+data/
+.ipynb_checkpoints/
+__pycache__/
+.env
